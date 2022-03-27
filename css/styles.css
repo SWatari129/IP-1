@@ -1,5 +1,6 @@
 .bg img {
   float: right;
+  top: 10px;
   background-size: 23%;
   height: 50%;
   width: 30%;
@@ -10,9 +11,9 @@
   text-align: center;
   width: 40%;
   padding: 10px;
-  border: solid rgb(16, 233, 197);
+  border: solid rgb(219, 174, 24);
   border-width: 10px;
-  background-color: rgb(214, 209, 199);
+  background-color: rgb(141, 174, 179);
   margin: auto;
   margin-bottom: 10px;
   box-sizing: border-box;
