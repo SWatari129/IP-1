@@ -4,10 +4,8 @@
   background-size: 23%;
   height: 50%;
   width: 30%;
-
 }
-
-.box {
+  .box {
   text-align: center;
   font-family: sans-serif;
   width: 40%;
@@ -22,4 +20,8 @@
 ul {
   text-align: center;
   list-style-position: inside;
+}
+.tag {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
