@@ -16,7 +16,7 @@ A personal profile page that uses HTML and CSS. Showing some for my first work a
 ## Setup/Installation Requirements
 
 * Clone from git.
-* Works with texted editors like VS Code.
+* Open index.html in our browser to view the project.
 
 
 ## Known Bugs
