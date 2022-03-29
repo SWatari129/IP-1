@@ -16,7 +16,8 @@ A personal profile page that uses HTML and CSS. Showing some for my first work a
 ## Setup/Installation Requirements
 
 * Clone from git.
-* Open index.html in our browser to view the project.
+* Open <a href="https://github.com/SWatari129/IP-1" title="Github">
+indext.html</a> in our browser to view the project.
 
 
 ## Known Bugs
