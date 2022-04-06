@@ -1,6 +1,6 @@
 ## Independent Project
 
-Contributors, Spencer Watari
+Contributor, Spencer Watari
 
 A class project that uses HTML adn CSS.
 
