@@ -1,9 +1,9 @@
-.bg img {
+.bigImg {
   float: right;
   bottom: 10px;
-  background-size: 23%;
-  height: 50%;
-  width: 30%;
+  background-size: 20%;
+  height: 30%;
+  width: 25%;
 }
   .box {
   text-align: center;

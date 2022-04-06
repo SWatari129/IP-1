@@ -16,7 +16,7 @@ A personal profile page that uses HTML and CSS. Showing some for my first work a
 ## Setup/Installation Requirements
 
 * [Click here](https://github.com/SWatari129/IP-1/blob/main/index.html) to view the project.
-* Clone from github.
+* [Click here](https://github.com/SWatari129/IP-1#readme) to clone from github.
 
 
 ## Known Bugs
