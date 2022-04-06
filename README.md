@@ -1,22 +1,23 @@
-Independent Project
+## Independent Project
 
 Contributors, Spencer Watari
 
-A class project that uses HTML adn CSS.
+A class project that uses HTML and CSS.
 
-Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
 
-* Description
+## Description
 
 A personal profile page that uses HTML and CSS. Showing some for my first work at coding with Epicodus.
 
 ## Setup/Installation Requirements
 
-* Clone from git.
-* Works with texted editors like VS Code.
+* [Click here](https://github.com/SWatari129/IP-1/blob/main/index.html) to view the project.
+* Clone from github.
+
 
 
 ## Known Bugs
