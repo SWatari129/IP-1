@@ -1,15 +1,15 @@
-Independent Project
+## Independent Project
 
 Contributors, Spencer Watari
 
 A class project that uses HTML adn CSS.
 
-Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
 
-* Description
+## Description
 
 A personal profile page that uses HTML and CSS. Showing some for my first work at coding with Epicodus.
 
