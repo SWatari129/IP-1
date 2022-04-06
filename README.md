@@ -2,7 +2,7 @@
 
 Contributor, Spencer Watari
 
-A class project that uses HTML adn CSS.
+A class project that uses HTML and CSS.
 
 ## Technologies Used
 
